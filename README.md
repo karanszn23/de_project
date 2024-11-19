@@ -1,1 +1,1 @@
-# de_project
+# de_project/dating app
